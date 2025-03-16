@@ -1,7 +1,7 @@
 # 📊 Bootstrapping Analysis: Monte Carlo Simulations  
 
 ## 📌 Overview  
-This repository contains a detailed report on **Bootstrapping**, part of **Project 5: Monte Carlo Simulations** at **Technical University Dortmund**.  
+This repository contains a detailed report on **Bootstrapping**, part of **Seminar: Monte Carlo Simulations** at **Technical University Dortmund**.  
 The report explores statistical resampling techniques, confidence interval estimation, hypothesis testing, and computational complexity using the **Bootstrapping method**.  
 
 ## 📖 Report Highlights  
